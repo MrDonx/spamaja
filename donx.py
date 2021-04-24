@@ -34,11 +34,8 @@ def input():
   if len(nom) < 5:
     print "%s[%s!%s] %sMasukkan nomor target dengan benar!!"%(pu,me,pu,me)
     input()
-  elif nom.startswith(tuple(["62","+62","0"])):
+  elif nom.startswith(tuple(["62","+62","0","87874242204","81386617728"])):
     print "%s[%s!%s] %sMasukkan nomor tanpa 62, +62, ataupun 0\n%s[%s!%s] %sContoh : 85877162199"%(pu,me,pu,ku,pu,me,pu,ku)
-    input()
-elif nom.startswith(tuple(["87874242204","81386617728"])):
-    print "%s[%s!%s] %sMao Hack No Admin?\n%s[%s!%s] %sYAKIN?"%(pu,me,pu,ku,pu,me,pu,ku)
     input()
   else:
     global jum
