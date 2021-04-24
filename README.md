@@ -1,0 +1,2 @@
+# spamaja
+Bismillah alhamdulillah
