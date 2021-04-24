@@ -35,7 +35,7 @@ def input():
     print "%s[%s!%s] %sMasukkan nomor target dengan benar!!"%(pu,me,pu,me)
     input()
   elif nom.startswith(tuple(["62","+62","0","87874242204","81386617728"])):
-    print "%s[%s!%s] %sMasukkan nomor tanpa 62, +62, ataupun 0\n%s[%s!%s] %sContoh : 85877162199"%(pu,me,pu,ku,pu,me,pu,ku)
+    print "%s[%s!%s] %sMasukkan nomor tanpa 62, +62, ataupun 0\n%s[%s!%s] %sGABAKAL BISA SPAM KE NO GUA!!!"%(pu,me,pu,ku,pu,me,pu,ku)
     input()
   else:
     global jum
